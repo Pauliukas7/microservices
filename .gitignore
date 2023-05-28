@@ -1,6 +1,7 @@
 # Visual Studio / JetBrains Rider
 .vs/
 .idea/
+.vscode
 
 # Build output
 /bin/
