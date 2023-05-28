@@ -1,0 +1,45 @@
+# Visual Studio / JetBrains Rider
+.vs/
+.idea/
+
+# Build output
+/bin/
+/obj/
+/*.dll
+/*.exe
+
+# NuGet packages
+/packages/
+
+# User-specific files
+*.userprefs
+*.suo
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# StyleCop
+StyleCopReport.xml
+
+# Resharper
+_resharper*/ 
+*.sln.DotSettings.user
